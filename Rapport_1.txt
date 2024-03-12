@@ -1,0 +1,21 @@
+Date du 12/03/24
+Rapport sur le projet_data_science 
+
+Objectif de la séance 
+	--> trouver le jeu de données
+	--> Bien définir les objectifs à atteindre pour le jeu de données en question 
+			
+Questions et réponses :
+
+Quel est le type données sur lequel on compte travailler ?
+Réponses : 
+
+Quel est le problème à resoudre ? 
+Réponses : 
+
+quels soont les questions auxquelles on cherche à répondre ?
+Réponses : 
+
+Quel est l'aperçu des données ?
+Réponses : 
+ 

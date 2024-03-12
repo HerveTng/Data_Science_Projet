@@ -1,0 +1,29 @@
+Vocabulaire pour le jeu de données : 
+
+glimpse :  aperçu 
+
+landscape : paysage 
+
+Encompassing : englobant 
+
+prowess : prouesse 
+
+This concise yet rich dataset is primed for a range of data science explorations: Cet ensemble de données, à la fois concis et riche, se prête à toute une série d'explorations dans le domaine de la science des données.
+
+dive : plonger 
+
+insight : perspicacité 
+
+It also opens avenues for network analysis to map collaborative patterns among top artists : Elle ouvre également la voie à l'analyse des réseaux pour cartographier les modèles de collaboration entre les meilleurs artistes.
+
+offering insights into the genre's evolving collaborative landscape :  offrant un aperçu de l'évolution du paysage collaboratif du genre.
+
+ Furthermore, the dataset can fuel predictive models aimed at forecasting track popularity based on various features, providing valuable insights for artists, producers, and marketers alike. :   En outre, l'ensemble de données peut alimenter des modèles prédictifs visant à prévoir la popularité des morceaux en fonction de diverses caractéristiques, fournissant ainsi des informations précieuses aux artistes, aux producteurs et aux spécialistes du marketing.
+
+The title of the track, encapsulating its identity and essence : Le titre de la piste, qui résume son identité et son essence
+
+This approach underscores a commitment to respecting copyright and data usage norms : Cette approche souligne l'engagement à respecter les droits d'auteur et les normes d'utilisation des données.
+
+This dataset is a bridge connecting the realms of data science and music, inviting exploration into the rhythmical patterns and narratives that define hip-hop's sonic footprint : Cet ensemble de données constitue un pont entre la science des données et la musique, invitant à explorer les modèles rythmiques et les récits qui définissent l'empreinte sonore du hip-hop.
+
+Each entry in the dataset not only highlights the popularity and musical composition of these tracks : Chaque entrée de l'ensemble de données met en évidence la popularité et la composition musicale de ces morceaux.
